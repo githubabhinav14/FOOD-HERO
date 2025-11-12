@@ -16,7 +16,7 @@ This project demonstrates how user registration and login systems work with data
 ---
 
 ## 🧩 Tech Stack
-| Component | Technology Used |
+| Component | Technology Used 
 | Frontend & Backend | HTML, CSS, JavaScript
 | Database | MongoDB 
 | Tools | Git, VS Code |
